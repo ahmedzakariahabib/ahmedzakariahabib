@@ -7,15 +7,12 @@ Ahmed Zakaria
   </a>
 </p>
 
-
 *   🌍  I'm From  Egypt 🇪🇬 
 *   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
 *   🖥️ I'm full stack
 *   ⚡ I enjoy Problem Solving
 *   🤝  I'm open to collaborating on interesting projects as a developer
-
-
 
 --------------------------
 
@@ -36,8 +33,6 @@ Ahmed Zakaria
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
-
-
 
 ## 	Tech Stack 🚀
 
@@ -110,7 +105,6 @@ Ahmed Zakaria
   </a>
 </p>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -126,8 +120,3 @@ Ahmed Zakaria
     <img src="https://komarev.com/ghpvc/?username=ahmedzakariahabib&style=for-the-badge&color=red" alt="Profile Views">
   </a>
 </p>
-
- 
-
- 
-
