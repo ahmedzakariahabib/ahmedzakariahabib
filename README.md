@@ -1,17 +1,45 @@
-Hi👋, My name is  Ahmed Zakaria
+Ahmed Zakaria
 ========================================================================================================================================
 
-I am  a  Fullstack developer.
---------------------------
+<p align="center">
+  <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20ur%20Tribal%20Chief☝️;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+  </a>
+</p>
+
 
 *   🌍  I'm From  Egypt 🇪🇬 
 *   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
-*   🖥️ I'm  currently learning React
+*   🖥️ I'm full stack
 *   ⚡ I enjoy Problem Solving
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-### 	Tech Stack 🚀
+
+
+--------------------------
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://x.com/_Zeko__" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="transition: 
+   transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-zakaria-9b2a4b251/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.instagram.com/ahmed_zakarya851/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009691717659" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
+
+
+
+## 	Tech Stack 🚀
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -82,24 +110,22 @@ I am  a  Fullstack developer.
   </a>
 </p>
 
-## 🌐 Connect with me
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://x.com/_Zeko__" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" style="transition: 
-   transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-zakaria-9b2a4b251/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.instagram.com/ahmed_zakarya851/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009691717659" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedzakariahabib&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedzakariahabib&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedzakariahabib&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
+## 👁️ Profile Views
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ahmedzakariahabib&style=for-the-badge&color=red">
+    <img src="https://komarev.com/ghpvc/?username=ahmedzakariahabib&style=for-the-badge&color=red" alt="Profile Views">
+  </a>
+</p>
 
  
 
