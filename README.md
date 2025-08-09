@@ -3,14 +3,15 @@ Ahmed Zakaria
 
 <p align="center">
   <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20ur%20Tribal%20Chief☝️;&font=Fira%20Code&center=true&width=440&height=45&color=FF5733&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20Ahmed%20Zakaria%20Full%20Stack%20Developer;&font=Fira%20Code&center=true&width=600&height=45&color=FF5733&vCenter=true&size=22">
+
   </a>
 </p>
 
-*   🌍  I'm From  Egypt 🇪🇬 
-*   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
-*   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
+*   🌍  I'm From  Egypt 🇪🇬
 *   🖥️ I'm full stack
+*   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
+*   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)`.
 *   ⚡ I enjoy Problem Solving
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
